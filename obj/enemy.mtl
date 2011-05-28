@@ -1,0 +1,91 @@
+# Max2Mtl Version 4.0 Mar 10th, 2001
+#
+# Multi/Sub default (2) to come 
+#
+newmtl carrosserie_noir
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  100.0
+illum 2
+#
+newmtl Material__26
+Ka  0.0 0.0 0.1
+Kd  0.0 0.0 0.1
+Ks  0.0 0.0 0.6
+d  1.0
+Ns  100.0
+illum 2
+#
+# Multi/Sub default done 
+#
+newmtl carrosserie_rouge
+Ka  0.9 0.0 0.0
+Kd  0.9 0.0 0.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  100.0
+illum 2
+#
+newmtl carrosserie_noir
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  100.0
+illum 2
+#
+# Multi/Sub Material__13 (2) to come 
+#
+newmtl carrosserie_rouge
+Ka  0.9 0.0 0.0
+Kd  0.9 0.0 0.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  100.0
+illum 2
+#
+newmtl carrosserie_noir
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  100.0
+illum 2
+#
+# Multi/Sub Material__13 done 
+#
+newmtl inside4
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  100.0
+illum 2
+#
+newmtl carrosserie_2
+Ka  0.4 0.4 0.4
+Kd  0.4 0.4 0.4
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  100.0
+illum 2
+#
+newmtl Material__25
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  100.0
+illum 2
+#
+newmtl Material__26
+Ka  0.0 0.0 0.1
+Kd  0.0 0.0 0.1
+Ks  0.0 0.0 0.6
+d  1.0
+Ns  100.0
+illum 2
+#
+# EOF
